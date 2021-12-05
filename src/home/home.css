@@ -1,1 +1,5 @@
-/* No CSS *//*# sourceMappingURL=home.css.map */
+.home {
+  background-color: var(--main-color);
+  color: white;
+}
+/*# sourceMappingURL=home.css.map */

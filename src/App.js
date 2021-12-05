@@ -1,5 +1,5 @@
-import "app.css"
-import Home from "home/Home";
+import "./app.css"
+import Home from "@home/Home";
 function App() {
   return (
     <div className="App"  >
